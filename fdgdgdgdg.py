@@ -6,3 +6,5 @@ for i in a:
         b+=1
     elif i.isdigit():
         c+=1
+print('Количество букв: ',b)
+print('Количество цифр: ',c)
